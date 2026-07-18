@@ -1,4 +1,4 @@
-# Northwind Level Two - Layered Architecture
+# Layered Architecture
 
 A sample ASP.NET project demonstrating the **Layered (N-Tier) Architecture** using Entity Framework and ASP.NET MVC/Web API.
 
