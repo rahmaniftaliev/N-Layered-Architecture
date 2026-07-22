@@ -10,6 +10,6 @@ namespace Entities.Dtos
         public int ProductID { get; set; }
         public int ProductName { get; set; }
         public decimal UnitPrice { get; set; }
-        public string CategoryName { get; set; }
+        public required string CategoryName { get; set; }
     }
 }
